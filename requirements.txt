@@ -9,3 +9,4 @@ Pillow>=10.0                # For handling image uploads (if applicable)
 python-decouple>=3.8        # For secure configuration via environment variables
 pytest>=7.4                 # For testing
 pytest-django>=4.5          # Django testing plugin for pytest
+whitenoise==6.4.0
